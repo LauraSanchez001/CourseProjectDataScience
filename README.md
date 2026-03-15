@@ -130,4 +130,3 @@ The architecture includes:
 **Focus**
 Designing scalable infrastructure that supports business intelligence and data analytics workflows.
 
----
