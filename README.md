@@ -131,6 +131,3 @@ The architecture includes:
 Designing scalable infrastructure that supports business intelligence and data analytics workflows.
 
 ---
-
-# Repository Structure
-
