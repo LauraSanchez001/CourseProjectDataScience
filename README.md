@@ -72,6 +72,8 @@ Python, data visualization techniques
 **Focus**
 Understanding social trends through data analysis and presenting results in a clear research-oriented report.
 
+<img width="548" height="401" alt="image" src="https://github.com/user-attachments/assets/7517bac8-f0e3-4868-b18d-b3d9ef9bd12f" />
+
 ---
 
 ## Fast Fashion Environmental Impact Dashboard
@@ -88,6 +90,11 @@ Power BI
 
 **Objective**
 Demonstrate how dashboards can support research and policy discussions about sustainability and environmental impact.
+
+<img width="632" height="356" alt="image" src="https://github.com/user-attachments/assets/ba78b033-5f79-447c-b8c8-bae3f35de5da" />
+
+<img width="632" height="356" alt="image" src="https://github.com/user-attachments/assets/39af65a2-de61-4505-838d-47e59143cd64" />
+
 
 ---
 
@@ -106,6 +113,8 @@ Power BI
 **Objective**
 Provide a visual decision-support tool to understand operational risks in the energy sector.
 
+<img width="642" height="362" alt="image" src="https://github.com/user-attachments/assets/0605a166-fb8f-470c-b8f5-da01f55bb5c5" />
+
 ---
 
 ## SQL Database Design for Coffee Business Decision Support
@@ -123,6 +132,10 @@ SQL, database design principles
 **Objective**
 Demonstrate how structured databases support operational management and business analytics.
 
+<img width="442" height="303" alt="image" src="https://github.com/user-attachments/assets/f6fba5eb-e894-401e-b2e9-82f659526939" />
+
+<img width="366" height="285" alt="image" src="https://github.com/user-attachments/assets/6b6933e5-897a-44ec-a747-bda35bb90b10" />
+
 ---
 
 ## Cloud Architecture for Business Data Infrastructure
@@ -136,4 +149,7 @@ The architecture includes:
 
 **Focus**
 Designing scalable infrastructure that supports business intelligence and data analytics workflows.
+
+<img width="412" height="226" alt="image" src="https://github.com/user-attachments/assets/a5bb8797-86a9-43de-b62b-9106674d3b75" />
+
 
