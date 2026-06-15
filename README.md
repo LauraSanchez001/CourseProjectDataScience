@@ -47,6 +47,13 @@ Python, Pandas, Machine Learning libraries, Data Visualization
 **Objective**
 Support energy market analysis and demonstrate how predictive models can help understand price dynamics in electricity markets.
 
+<img width="383" height="92" alt="image" src="https://github.com/user-attachments/assets/b91eb8ef-9216-49c7-b47b-3ba61f6f1ea7" />
+
+<img width="975" height="806" alt="image" src="https://github.com/user-attachments/assets/da4ca7c6-9bf5-4d5a-90e1-d44c1e02a8d2" />
+
+<img width="466" height="668" alt="image" src="https://github.com/user-attachments/assets/fe391b00-e617-4ded-a7b6-cafb33ee5273" />
+
+
 ---
 
 ## Crime Trends Analysis
